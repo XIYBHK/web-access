@@ -1,5 +1,5 @@
 ---
-name: web-access
+name: web-access 联网访问
 license: MIT
 github: https://github.com/eze-is/web-access
 description:
